@@ -8,3 +8,6 @@ include_directories(include)
 
 add_executable(main src/main.cpp)
 add_executable(ex0101 src/example0101.cpp)
+add_executable(ex0201 src/example0201.cpp)
+add_executable(ex0202 src/example0202.cpp)
+add_executable(ex0203 src/example0203.cpp)
